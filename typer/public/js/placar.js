@@ -82,6 +82,7 @@ function sincronizaPlacar() {
     $(".tooltip").tooltipster("close");
 }, 1200);
 });
+}
 
 
 function atualizaPlacar() {
