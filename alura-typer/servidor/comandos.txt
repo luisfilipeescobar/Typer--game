@@ -1,0 +1,1 @@
+C:\Users\luisf\Desktop\Projetos Front-end\Jquery Intermediário\alura-typer\servidor>npm start
